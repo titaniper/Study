@@ -4,3 +4,6 @@
 [submodule "golang"]
 	path = golang
 	url = git@github.com:titaniper/golang.git
+[submodule "kafka"]
+	path = kafka
+	url = git@github.com:titaniper/kafka.git

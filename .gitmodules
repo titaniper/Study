@@ -19,3 +19,6 @@
 [submodule "docker"]
 	path = docker
 	url = git@github.com:titaniper/docker.git
+[submodule "elastic-search"]
+	path = elastic-search
+	url = git@github.com:FORCU27/elastic-search.git

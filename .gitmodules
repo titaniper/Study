@@ -25,3 +25,6 @@
 [submodule "redis"]
 	path = redis
 	url = git@github.com:FORCU27/redis.git
+[submodule "mysql"]
+	path = mysql
+	url = git@github.com:FORCU27/mysql.git

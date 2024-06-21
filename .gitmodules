@@ -16,3 +16,6 @@
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:titaniper/kubernetes.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:titaniper/docker.git

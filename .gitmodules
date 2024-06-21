@@ -28,3 +28,6 @@
 [submodule "mysql"]
 	path = mysql
 	url = git@github.com:FORCU27/mysql.git
+[submodule "mongo-db"]
+	path = mongo-db
+	url = git@github.com:FORCU27/mongo-db.git

@@ -10,3 +10,6 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = git@github.com:titaniper/Algorithm.git
+[submodule "react"]
+	path = react
+	url = git@github.com:titaniper/react.git

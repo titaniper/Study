@@ -13,3 +13,6 @@
 [submodule "react"]
 	path = react
 	url = git@github.com:titaniper/react.git
+[submodule "kubernetes"]
+	path = kubernetes
+	url = git@github.com:titaniper/kubernetes.git

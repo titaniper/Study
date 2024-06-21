@@ -22,3 +22,6 @@
 [submodule "elastic-search"]
 	path = elastic-search
 	url = git@github.com:FORCU27/elastic-search.git
+[submodule "redis"]
+	path = redis
+	url = git@github.com:FORCU27/redis.git

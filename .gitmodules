@@ -31,3 +31,6 @@
 [submodule "mongo-db"]
 	path = mongo-db
 	url = git@github.com:FORCU27/mongo-db.git
+[submodule "testing"]
+	path = testing
+	url = git@github.com:titaniper/testing.git

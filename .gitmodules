@@ -34,3 +34,6 @@
 [submodule "testing"]
 	path = testing
 	url = git@github.com:titaniper/testing.git
+[submodule "AI"]
+	path = AI
+	url = git@github.com:titaniper/AI.git

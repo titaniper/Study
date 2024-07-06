@@ -10,9 +10,6 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = git@github.com:titaniper/Algorithm.git
-[submodule "react"]
-	path = react
-	url = git@github.com:titaniper/react.git
 [submodule "kubernetes"]
 	path = kubernetes
 	url = git@github.com:titaniper/kubernetes.git
@@ -37,3 +34,6 @@
 [submodule "AI"]
 	path = AI
 	url = git@github.com:titaniper/AI.git
+[submodule "Frontend"]
+	path = Frontend
+	url = git@github.com:titaniper/Frontend.git

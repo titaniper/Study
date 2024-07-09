@@ -19,3 +19,6 @@
 [submodule "TestOps"]
 	path = TestOps
 	url = git@github.com:titaniper/TestOps.git
+[submodule "dataops"]
+	path = dataops
+	url = git@github.com:titaniper/dataops.git

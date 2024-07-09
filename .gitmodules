@@ -16,3 +16,12 @@
 [submodule "mlops"]
 	path = mlops
 	url = git@github.com:titaniper/mlops.git
+[submodule "langauge"]
+	path = langauge
+	url = git@github.com:titaniper/langauge.git
+[submodule "cs"]
+	path = cs
+	url = git@github.com:titaniper/cs.git
+[submodule "pattern"]
+	path = pattern
+	url = git@github.com:titaniper/pattern.git

@@ -1,9 +1,6 @@
 [submodule "typescript"]
 	path = typescript
 	url = git@github.com:titaniper/typescript.git
-[submodule "kafka"]
-	path = kafka
-	url = git@github.com:titaniper/kafka.git
 [submodule "Algorithm"]
 	path = Algorithm
 	url = git@github.com:titaniper/Algorithm.git

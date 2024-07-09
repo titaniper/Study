@@ -1,3 +1,18 @@
 [submodule "dataops"]
 	path = dataops
 	url = git@github.com:titaniper/dataops.git
+[submodule "devops"]
+	path = devops
+	url = git@github.com:titaniper/devops.git
+[submodule "ai"]
+	path = ai
+	url = git@github.com:titaniper/ai.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:titaniper/frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:titaniper/backend.git
+[submodule "mlops"]
+	path = mlops
+	url = git@github.com:titaniper/mlops.git

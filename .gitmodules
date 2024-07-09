@@ -19,3 +19,6 @@
 [submodule "Backend"]
 	path = Backend
 	url = git@github.com:titaniper/Backend.git
+[submodule "TestOps"]
+	path = TestOps
+	url = git@github.com:titaniper/TestOps.git

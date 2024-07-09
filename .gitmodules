@@ -1,27 +1,9 @@
-[submodule "typescript"]
-	path = typescript
-	url = git@github.com:titaniper/typescript.git
 [submodule "Algorithm"]
 	path = Algorithm
 	url = git@github.com:titaniper/Algorithm.git
-[submodule "kubernetes"]
-	path = kubernetes
-	url = git@github.com:titaniper/kubernetes.git
 [submodule "docker"]
 	path = docker
 	url = git@github.com:titaniper/docker.git
-[submodule "elastic-search"]
-	path = elastic-search
-	url = git@github.com:FORCU27/elastic-search.git
-[submodule "redis"]
-	path = redis
-	url = git@github.com:FORCU27/redis.git
-[submodule "mysql"]
-	path = mysql
-	url = git@github.com:FORCU27/mysql.git
-[submodule "mongo-db"]
-	path = mongo-db
-	url = git@github.com:FORCU27/mongo-db.git
 [submodule "testing"]
 	path = testing
 	url = git@github.com:titaniper/testing.git

@@ -25,3 +25,6 @@
 [submodule "pattern"]
 	path = pattern
 	url = git@github.com:titaniper/pattern.git
+[submodule "testops"]
+	path = testops
+	url = git@github.com:titaniper/testops.git

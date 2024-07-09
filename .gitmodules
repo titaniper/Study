@@ -1,12 +1,6 @@
 [submodule "Algorithm"]
 	path = Algorithm
 	url = git@github.com:titaniper/Algorithm.git
-[submodule "docker"]
-	path = docker
-	url = git@github.com:titaniper/docker.git
-[submodule "testing"]
-	path = testing
-	url = git@github.com:titaniper/testing.git
 [submodule "AI"]
 	path = AI
 	url = git@github.com:titaniper/AI.git

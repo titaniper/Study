@@ -10,9 +10,6 @@
 [submodule "DevOps"]
 	path = DevOps
 	url = git@github.com:titaniper/DevOps.git
-[submodule "dataops"]
-	path = dataops
-	url = git@github.com:titaniper/dataops.git
 [submodule "MLOps"]
 	path = MLOps
 	url = git@github.com:titaniper/MLOps.git

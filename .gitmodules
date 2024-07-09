@@ -1,24 +1,3 @@
-[submodule "Algorithm"]
-	path = Algorithm
-	url = git@github.com:titaniper/Algorithm.git
-[submodule "AI"]
-	path = AI
-	url = git@github.com:titaniper/AI.git
-[submodule "Frontend"]
-	path = Frontend
-	url = git@github.com:titaniper/Frontend.git
-[submodule "DevOps"]
-	path = DevOps
-	url = git@github.com:titaniper/DevOps.git
-[submodule "MLOps"]
-	path = MLOps
-	url = git@github.com:titaniper/MLOps.git
-[submodule "Backend"]
-	path = Backend
-	url = git@github.com:titaniper/Backend.git
-[submodule "TestOps"]
-	path = TestOps
-	url = git@github.com:titaniper/TestOps.git
 [submodule "dataops"]
 	path = dataops
 	url = git@github.com:titaniper/dataops.git

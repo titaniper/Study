@@ -28,3 +28,6 @@
 [submodule "testops"]
 	path = testops
 	url = git@github.com:titaniper/testops.git
+[submodule "llmops"]
+	path = llmops
+	url = git@github.com:titaniper/llmops.git
